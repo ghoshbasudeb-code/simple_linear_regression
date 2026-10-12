@@ -9,4 +9,4 @@ A lightweight, clean educational Python library implementing **Simple Linear Reg
 You can install this library directly from GitHub using `pip`:
 
 ```bash
-pip install git+[https://github.com/YOUR_USERNAME/simple_linear_regression.git](https://github.com/YOUR_USERNAME/simple_linear_regression.git)
+pip install git+[https://github.com/ghoshbasudeb-code/simple_linear_regression.git](https://github.com/ghoshbasudeb-code/simple_linear_regression.git)

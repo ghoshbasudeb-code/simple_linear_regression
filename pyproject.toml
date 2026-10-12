@@ -1,11 +1,13 @@
+Ini,TOML
+
 [build-system]
 requires = ["setuptools>=61.0.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "simple_linear_regression"
-version = "0.1.0"
-description = "A simple custom gradient descent linear regression library from scratch"
+version = "0.2.0"
+description = "A lightweight custom gradient descent linear regression library supporting single and multi-variable inputs"
 readme = "README.md"
 authors = [
     { name = "Your Name", email = "your.email@example.com" }
